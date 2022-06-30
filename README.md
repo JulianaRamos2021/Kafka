@@ -7,7 +7,7 @@ Apache Kafka é uma plataforma open-source de processamento de streams desenvolv
 Instalação Cluster Kafka
 
 #### 1. Criar a pasta kafka e inserir o arquivo docker-compose.yml da Guia Arquivos do treinamento
-Para esta etapa acessei a pasta docker-bigdata no docker compose (já instalado em exercícios anteriores) digitei cd kafka, o comando cria e já acessa o novo diretório, em seguida digitei o comando de criação da pasta "docker-compose.yml" como solicitado acima, dentro dessa pasta digitei o comando 
+Para esta etapa acessei a pasta docker-bigdata no docker compose (já instalado em exercícios anteriores) digitei cd kafka, o comando cria e já acessa o novo diretório, em seguida digitei o comando de criação da pasta "docker-compose.yml" como solicitado acima, dentro dessa pasta digitei o comando "cat > docker-compose.yml", colei os dados da guia conforme solicitado no exercício e por fim o comando CTRL+D. 
 
 
 #### 2. Instalação do docker e docker-compose
